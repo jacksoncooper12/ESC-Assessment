@@ -10,7 +10,7 @@
 
 1. Clone the repository:
 
-  git clone https://github.com/jacksoncooper12/ESC-Assessment.git
+      git clone https://github.com/jacksoncooper12/ESC-Assessment.git
 
 2. Open the .sln file in Visual Studio 2022
 
